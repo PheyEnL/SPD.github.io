@@ -44,8 +44,8 @@ Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the w
 <img src ="/image.9"/>
 <p><strong>Demo</strong></p>
 <video width="426" height="240">
-  <source src="202308172227.mp4" type="video/mp4">
-  <a href="202308172227.mp4" download>Download 
+  <source src="Demo.mp4" type="video/mp4">
+  <a href="Demo.mp4" download>Download 
 	202308172227.mp4</a>
 </video>
 
