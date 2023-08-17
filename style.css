@@ -73,6 +73,7 @@ body {
     text-align: center;
     background-color: white;
     border: 3px solid #000;
+    width: 200px;
   }
   .pokemon-card h2 {
     color: #333;
