@@ -30,6 +30,12 @@ Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the w
 </p>
 <p>
   Dana: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
+
+</p>
+<p><strong>Installation and Setup </strong></p>
+<p>To run the Pokédex website locally, follow these steps:
+1. Clone the repository in VSC
+2. Press run without Debugging
 </p>
 
 <p><strong>CHATGPT_Prompts.md </strong></p>
