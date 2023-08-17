@@ -15,15 +15,3 @@ For this project, we used the following front-end technologies: - CSS(Cascading 
 <img src="/image..png"/>
 </p>
 <img src="/image.7.png"/>
-
-<p><strong>Inspiration</strong></p>
-<p align = "left">
-The concept and design were inspired by one of the Pokedex found in Google but we made it simpler with easier coding. This is the link to our inspiration: https://www.pokemon.com/us/pokedex
-</p>
-
-<p><strong>Contributions</strong></p>
-<p align = "left">
-Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
-Dana: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
-Phey En: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
-</p>
