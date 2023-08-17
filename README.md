@@ -23,7 +23,11 @@ The concept and design were inspired by one of the Pokedex found in Google but w
 
 <p><strong>Contributions</strong></p>
 <p align = "left">
-Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
-Dana: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
-Phey En: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
+Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.      
+</p>
+<p>
+  Phey En: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
+</p>
+<p>
+  Dana: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
 </p>
