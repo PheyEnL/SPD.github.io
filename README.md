@@ -15,5 +15,5 @@ For this project, we used the following front-end technologies: - CSS(Cascading 
 <img src="/image..png"/>
 </p>
 <p align ="center">
-<img scr="/image.2"/>
+<img scr="/image.7.png"/>
 </p>
