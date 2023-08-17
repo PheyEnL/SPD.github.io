@@ -36,4 +36,10 @@ Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the w
 <p>HTML ( what is the sample code in HTML for pokedex? ) </p>
 <img src = "/image"/>
 <p>CSS ( how to make pokedex with Css? ) </p>
-<img src = "/image"/>
+<img src = "/image.4"/>
+<img src = "/image.5"/>
+<img src = "/image.6"/>
+<p>JAVASCRIPT ( how do I use ApiBaseURL in javascript? ) </p>
+<img src = "/image.8"/>
+<img src ="/image.9"/>
+
