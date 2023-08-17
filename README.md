@@ -31,3 +31,9 @@ Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the w
 <p>
   Dana: Wrote and edited the coding for JS, CSS, and HTML. Also designed the website.
 </p>
+
+<p><strong>CHATGPT_Prompts.md </strong></p>
+<p>HTML ( what is the sample code in HTML for pokedex? ) </p>
+<img src = "/image"/>
+<p>CSS ( how to make pokedex with Css? ) </p>
+<img src = "/image"/>
