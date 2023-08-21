@@ -51,6 +51,7 @@ Shervine: Wrote and edited the coding for JS, CSS, and HTML. Also designed the w
 <img src ="/image.9"/>
 <p><strong>Demo</strong></p>
 <h4><a href="https://youtu.be/6LMrBrbkVFo">Pokedex live demo</a></h4>
+<h6><p>*Please put your HD quality to 1080p for a clearer video.</p></h6>
 
 
 
