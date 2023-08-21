@@ -11,6 +11,7 @@ The Pokédex website will allow users to access basic or common information abou
 <p align = "left">
 For this project, we used the following front-end technologies: - CSS(Cascading Style Sheets), HTML(Hypertext Markup Language), and Javascript.
 </p>
+<p><strong>Screenshots of our website</strong></p>
 <p align="center">
 <img src="/image..png"/>
 </p>
